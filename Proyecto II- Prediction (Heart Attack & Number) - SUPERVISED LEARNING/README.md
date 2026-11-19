@@ -198,10 +198,3 @@ Se evaluó mediante:
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
 
----
-
-## 🚀 Autor
-
-Ruslán Bermúdez Nikitenkov
-
-Data Analytics | Machine Learning | Python
