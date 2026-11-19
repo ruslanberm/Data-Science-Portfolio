@@ -202,6 +202,6 @@ Se evaluó mediante:
 
 ## 🚀 Autor
 
-**Tu Nombre**
+Ruslán Bermúdez Nikitenkov
 
 Data Analytics | Machine Learning | Python
